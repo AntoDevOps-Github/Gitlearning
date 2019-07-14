@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_2stclm
 b1 common file
+=======
+b2 common file
+>>>>>>> .merge_file_ykEze3
