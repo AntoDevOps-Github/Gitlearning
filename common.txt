@@ -1,1 +1,5 @@
+
 b1 common file
+=======
+b2 common file
+
